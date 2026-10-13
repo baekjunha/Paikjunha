@@ -1,0 +1,15 @@
+/Binaries/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+/.vs/
+
+**/Binaries/
+**/Intermediate/
+**/Saved/
+**/DerivedDataCache/
+
+*.sln
+*.suo
+*.VC.db
+*.VC.opendb
